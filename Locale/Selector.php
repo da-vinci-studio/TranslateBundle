@@ -1,6 +1,6 @@
 <?php
 
-namespace Dvs\Bundle\Core\TranslateBundle\Locale;
+namespace Dvs\TranslateBundle\Locale;
 
 use Symfony\Component\HttpKernel\Event\GetResponseEvent;
 use Symfony\Component\Translation\TranslatorInterface;

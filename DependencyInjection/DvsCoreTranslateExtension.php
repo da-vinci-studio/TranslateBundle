@@ -1,6 +1,6 @@
 <?php
 
-namespace Dvs\Bundle\Core\TranslateBundle\DependencyInjection;
+namespace Dvs\TranslateBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

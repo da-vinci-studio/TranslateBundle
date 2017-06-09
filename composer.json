@@ -1,0 +1,7 @@
+{
+  "name": "da-vinci-studio/translate-bundle",
+  "description": "Select preferred language correctly",
+  "keywords": ["translate", "locale"],
+  "type": "symfony-bundle",
+  "license": "MIT"
+}

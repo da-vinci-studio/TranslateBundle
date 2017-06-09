@@ -1,6 +1,6 @@
 <?php
 
-namespace Dvs\Bundle\Core\TranslateBundle;
+namespace Dvs\TranslateBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
