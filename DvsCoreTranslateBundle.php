@@ -4,6 +4,6 @@ namespace Dvs\TranslateBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class DvsCoreTranslateBundle extends Bundle
+class DvsTranslateBundle extends Bundle
 {
 }
